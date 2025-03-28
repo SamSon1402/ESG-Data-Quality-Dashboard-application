@@ -3,7 +3,7 @@
 A powerful tool to check and improve the quality of environmental (ESG) data for real estate buildings.
 
 ![Image](https://github.com/user-attachments/assets/85cce78d-2e13-49e3-bfff-c5534cb15f2c)
-![Image](https://github.com/user-attachments/assets/c8e437d8-6d40-449a-81fc-c443717c2338)
+
 
 
 ## What This Project Does
